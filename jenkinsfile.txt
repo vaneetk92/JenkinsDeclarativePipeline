@@ -25,7 +25,7 @@ pipeline
 		{
             steps 
 			{
-               echo "releasing........."
+               echo "releasing the Project///........."
             }	
             
         }
